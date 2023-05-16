@@ -17,6 +17,7 @@ const count = ref(0)
 </template>
 
 <style scoped>
+
 button{
   border-radius: 20px;
   padding: 3px 12px;
@@ -26,9 +27,11 @@ button{
   font-weight: bolder;
   background-color: rgb(249, 17, 17);
   color: white;
+  
 }
 div{
   text-align: center;
+  
 }
 
 </style>
