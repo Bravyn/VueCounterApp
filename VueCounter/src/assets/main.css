@@ -4,19 +4,5 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
-}
-div{
-    text-align: center;
 }
 
-button{
-    border-radius: 20px;
-    padding: 3px 12px;
-    margin: 4px;
-    border: none;
-    font-size: medium;
-    font-weight: bolder;
-    background-color: rgb(249, 17, 17);
-    color: white;
-}
